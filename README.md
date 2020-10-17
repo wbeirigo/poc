@@ -7,5 +7,5 @@ Name: Wilson Beirigo Duarte
 Phone: 31 9 9590 3803
 
 
-|# Instruções de execução:
+# Instruções de execução:
 python main.py  > result.html
